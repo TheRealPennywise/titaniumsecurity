@@ -2,7 +2,6 @@ discord==1.7.3
 discord.py==1.7.3
 aiohttp==3.7.4.post0
 discord-components==2.1.2
-httpx==0.22.0
 jishaku==2.4.0
 asyncio
 datetime
