@@ -1,7 +1,4 @@
-discord==1.7.3
-discord.py==1.7.3
-discord-components==2.1.2
-jishaku==2.4.0
+
 asyncio
 datetime
 os
