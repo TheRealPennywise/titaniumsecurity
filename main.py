@@ -17,7 +17,7 @@ def cls():
     os.system("clear")
 
 
-token = "OTgwMDUyODU3NDkzNTUzMjAy.GikAn8.BCqAfETNzWs987AUsrPVJZYSEotXfEDzZkl5rU"
+token = "OTgwMDUyODU3NDkzNTUzMjAy.GE54R0.3uN_bfAKEMemjjqtfIOf8p7hNym8ZnYDd3fRTg"
 
 prefix = "_"
 
